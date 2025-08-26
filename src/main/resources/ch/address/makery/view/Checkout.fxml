@@ -11,3 +11,4 @@
 
     <Button fx:id="okButton" style="-fx-background-color: #2a9d8f; -fx-text-fill: white;" text="OK" />
 </VBox>
+<!--test>
